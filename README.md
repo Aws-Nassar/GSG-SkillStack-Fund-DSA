@@ -17,7 +17,13 @@ You can follow along with the course videos on YouTube:
 
 ## 📂 Additional Material
 
-You can find extra resources, PDFs, code samples, and references inside the [`material`](<REPO_LINK>/tree/main/material) folder of this repository.
+You can find extra resources, PDFs, code samples, and references inside the [material](./material) folder of this repository.
+
+---
+
+## 📝 Assignments
+
+You can find practice problems and exercises to reinforce your learning inside the [assignments](./assignments) folder of this repository.
 
 ---
 
