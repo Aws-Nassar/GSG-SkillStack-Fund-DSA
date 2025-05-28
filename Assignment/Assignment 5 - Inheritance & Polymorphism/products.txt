@@ -1,0 +1,5 @@
+Drink,Cola,1.50,500
+Snack,Chips,2.00,250
+Candy,Gummy Bears,1.20,Strawberry
+Drink,Water,1.00,600
+Snack,Cookies,1.75,300
