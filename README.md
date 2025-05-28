@@ -11,7 +11,7 @@ This training is considered essential for building a strong programming foundati
 ## ▶️ Watch the Training Playlist
 
 You can follow along with the course videos on YouTube:  
-🎥 [Watch the full playlist here](<YOUTUBE_PLAYLIST_LINK>)
+🎥 [Watch the full playlist here](<https://youtube.com/playlist?list=PLV-pOnilkSzCaz28zysH6tdsd0hJS9dLG&si=g99c56alv71iVANV>)
 
 ---
 
@@ -42,18 +42,4 @@ You can find extra resources, PDFs, code samples, and references inside the [`ma
 - ✅ Queue  
 - ✅ Hash Tables  
 - ✅ Graphs (BFS/DFS)  
-- ✅ Sorting Algorithms  
-
----
-
-## 💡 Getting Started
-
-To make the most out of this training:
-1. Clone this repository.
-2. Explore each folder corresponding to the topics above.
-3. Read through the explanations and try out the code samples.
-4. Practice with exercises provided in each section.
-
-```bash
-git clone https://github.com/your-username/skillstack-training.git
-cd skillstack-training
+- ✅ Sorting Algorithms
