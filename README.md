@@ -8,6 +8,19 @@ This training is considered essential for building a strong programming foundati
 
 ---
 
+## ▶️ Watch the Training Playlist
+
+You can follow along with the course videos on YouTube:  
+🎥 [Watch the full playlist here](<YOUTUBE_PLAYLIST_LINK>)
+
+---
+
+## 📂 Additional Material
+
+You can find extra resources, PDFs, code samples, and references inside the [`material`](<REPO_LINK>/tree/main/material) folder of this repository.
+
+---
+
 ## 🧠 Training Outline
 
 ### 1. Programming Fundamentals
