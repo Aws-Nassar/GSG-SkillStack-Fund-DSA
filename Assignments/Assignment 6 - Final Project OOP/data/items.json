@@ -1,0 +1,31 @@
+[
+    {
+        "item_id": "D001",
+        "title": "Indie Game: The Movie",
+        "author": "James Swirsky & Lisanne Pajot",
+        "available": true,
+        "type": "dvd",
+        "duration": 96,
+        "rating": "PG-13",
+        "reserved": false
+    },
+    {
+        "item_id": "B001",
+        "title": "Software Engineering, 9th Edition",
+        "author": "Ian Sommerville",
+        "available": true,
+        "type": "book",
+        "isbn": "9780137035151",
+        "genre": "Computer Science",
+        "reserved": false
+    },
+    {
+        "item_id": "M001",
+        "title": "Time Magazine",
+        "author": "Various",
+        "available": true,
+        "type": "magazine",
+        "issue": "2023-05-15",
+        "publisher": "Time USA"
+    }
+]
