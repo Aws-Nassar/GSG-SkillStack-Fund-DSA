@@ -1,0 +1,18 @@
+Task: Simulate a basic customer service system using a queue.
+
+Customers arrive and join a service queue. Each customer is served in the order they arrive. Once served, they
+leave the queue. Your task is to:
+
+	Enqueue customer names as they arrive.
+	Dequeue and display the name of each customer as they are served.
+	When the queue is empty, display a message indicating that all customers have been served.
+
+Example: 
+# Sample Output:
+Arriving: Alice
+Arriving: Bob
+Arriving: Carol
+Serving: Alice
+Serving: Bob
+Serving: Carol
+All customers served.
