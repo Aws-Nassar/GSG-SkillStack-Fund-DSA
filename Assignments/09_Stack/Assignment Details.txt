@@ -1,0 +1,11 @@
+Convert an infix expression to postfix (Reverse Polish Notation)
+Example: "(1 + 2) * 3" → "1 2 + 3 *"
+
+expr = "5 + ( 6 - 2 ) * 9"
+# postfix = 5 6 2 - 9 * +
+
+expr = "( 1 + 2 ) * ( 3 + 4 )"
+# postfix = 1 2 + 3 4 + *
+
+
+Use a stack to store operators based on precedence
