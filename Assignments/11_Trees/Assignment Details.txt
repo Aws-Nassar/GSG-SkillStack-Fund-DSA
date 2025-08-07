@@ -1,0 +1,2 @@
+Implement a findMin and findMax method in the BST class.
+Write a function that returns True if the binary tree is balanced, and False otherwise.
