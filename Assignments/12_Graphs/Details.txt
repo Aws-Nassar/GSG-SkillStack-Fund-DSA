@@ -1,0 +1,10 @@
+Problem Statement: Model a simplified map of a city using a directed weighted graph. Each vertex
+represents a location (e.g., hospital, school, store), and each edge represents a one-way road with a given
+travel time.
+Tasks:
+1. Build a class-based graph implementation.
+2. Populate the graph with at least 6 locations and 10 roads.
+3. Implement:
+	A function to add/remove locations and roads.
+	A function to compute the shortest path from one location to another (use Dijkstra’s algorithm).
+	A function to list all reachable locations from a starting point (use BFS).
