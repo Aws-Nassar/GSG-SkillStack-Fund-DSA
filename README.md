@@ -27,7 +27,7 @@ You can find practice problems and exercises to reinforce your learning inside t
 
 ---
 
-## 🧠 Training Outline (There are more topics which you can check in material directory)
+## 🧠 Training Outline 
 
 ### 1. Programming Fundamentals
 
@@ -49,3 +49,5 @@ You can find practice problems and exercises to reinforce your learning inside t
 - ✅ Hash Tables  
 - ✅ Graphs (BFS/DFS)  
 - ✅ Sorting Algorithms
+
+(There are more topics which you can check in material directory)
