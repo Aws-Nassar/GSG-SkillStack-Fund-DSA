@@ -1,0 +1,3 @@
+Implement a MaxHeap class from scratch
+(supporting insert, pop, heapify-up, heapify-down) and demonstrate it by inserting a set of integers, then
+repeatedly popping to display the elements in descending order.
