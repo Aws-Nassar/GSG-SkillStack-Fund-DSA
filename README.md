@@ -27,7 +27,7 @@ You can find practice problems and exercises to reinforce your learning inside t
 
 ---
 
-## 🧠 Training Outline
+## 🧠 Training Outline (There are more topics which you can check in material directory)
 
 ### 1. Programming Fundamentals
 
