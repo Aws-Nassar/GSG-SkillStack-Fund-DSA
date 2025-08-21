@@ -56,7 +56,7 @@ You can find practice problems and exercises to reinforce your learning inside t
 
 ## 📜 Certificate of Completion
 
-![Certificate Preview](./Certificate/certificate.jpg)
+![Certificate Preview](./Certificate/certificate.png)
 
 > *Note: Make sure to open the image in full size or download it if needed.*
 
