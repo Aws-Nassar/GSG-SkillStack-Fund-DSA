@@ -1,0 +1,8 @@
+Implement a hash table from scratch without using built-in dictionary types, supporting the following
+operations:
+
+	insert(key, value)
+	delete(key)
+	search(key)
+	Automatic rehashing when the load factor exceeds 0.7.
+	Use quadratic probing as the collision resolution strategy, ensuring that probing steps follow the quadratic sequence (i²) from the initial hash index.
