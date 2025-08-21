@@ -51,3 +51,17 @@ You can find practice problems and exercises to reinforce your learning inside t
 - ✅ Sorting Algorithms
 
 (There are more topics which you can check in material directory)
+
+---
+
+## 📜 Certificate of Completion
+
+![Certificate Preview](./Certificate/certificate.png)
+
+> *Note: Make sure to open the image in full size or download it if needed.*
+
+---
+
+## 🏫 Provided By
+
+This course is presented by **[Gaza Sky Geeks](https://gazaskygeeks.com/)**
